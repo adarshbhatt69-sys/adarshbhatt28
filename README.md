@@ -17,101 +17,38 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
 const adarsh = {
   title: "Full Stack Developer | React Native Developer | Android Developer | Mobile App Developer",
-
   stack: {
-    languages: [
-      "JavaScript (ES6+)",
-      "TypeScript",
-      "Java",
-      "Kotlin",
-      "Python",
-      "HTML5",
-      "CSS3"
-    ],
-
-    frontend: [
-      "React.js",
-      "React Native",
-      "Next.js",
-      "Redux Toolkit",
-      "Tailwind CSS",
-      "XML"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "REST APIs",
-      "SOAP APIs"
-    ],
-
-    database: [
-      "MongoDB",
-      "MySQL",
-      "SQLite"
-    ],
-
-    cloud: [
-      "Firebase"
-    ],
-
-    mobile: [
-      "React Native CLI",
-      "Android Studio",
-      "Android SDK"
-    ],
-
-    devOps: [
-      "Git",
-      "GitHub"
-    ],
-
-    tools: [
-      "VS Code",
-      "Android Studio",
-      "Postman",
-      "Figma"
-    ],
-
-    fullStack: {
-      frontend: ["React.js", "Next.js", "Tailwind CSS"],
-      backend: ["Node.js", "Express.js"],
-      database: ["MongoDB", "MySQL"],
-      authentication: ["JWT", "Firebase Authentication"],
-      api: ["REST APIs"]
-    }
+    languages: ["JavaScript (ES6+)", "TypeScript", "Java", "Kotlin", "Python", "HTML5", "CSS3"],
+    frontend: ["React Native", "React.js", "XML", "Redux Toolkit"],
+    backend: ["REST APIs", "SOAP APIs"],
+    mobile: ["React Native CLI", "Android Studio", "Android SDK"],
+    database: ["SQLite", "MySQL"],
+    cloud: ["Firebase"],
+    devOps: ["Git", "GitHub"],
+    tools: ["Postman", "VS Code", "Android Studio", "Figma"],
   },
-
   launchedProjects: [
     "Employee-Directory-App",
     "Company-Dashboard-App",
-    "E-Commerce-Web-Platform"
+    "E-Commerce-Web-Platform",
   ],
-
   focusAreas: [
-    "Full Stack Development",
     "API Integration",
     "Performance Optimization",
     "Debugging",
     "Navigation",
-    "State Management"
+    "State Management",
   ],
-
-  status: "Building scalable web applications and performant cross-platform mobile experiences 🚀",
-
+  status: "Building performant, cross-platform mobile experiences 🚀",
   openTo: [
-    "Full Stack Development",
     "React Native Projects",
     "Android Development",
-    "Web Development",
-    "Collaboration & Freelance Work"
-  ]
+    "Full Stack Development",
+    "Collaboration & Freelance Work",
+  ],
 };
-```
-
 ---
 
 ## 🚀 Featured Projects
