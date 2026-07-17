@@ -17,8 +17,7 @@
 
 ## 🧑‍💻 Who I Am
 
-const adarsh = {
-  title: "Full Stack Developer | React Native Developer | Android Developer | Mobile App Developer",
+title: "React Native Developer | Fullstack Developer | Android Developer | Mobile App Developer",
   stack: {
     languages: ["JavaScript (ES6+)", "TypeScript", "Java", "Kotlin", "Python", "HTML5", "CSS3"],
     frontend: ["React Native", "React.js", "XML", "Redux Toolkit"],
@@ -29,25 +28,10 @@ const adarsh = {
     devOps: ["Git", "GitHub"],
     tools: ["Postman", "VS Code", "Android Studio", "Figma"],
   },
-  launchedProjects: [
-    "Employee-Directory-App",
-    "Company-Dashboard-App",
-    "E-Commerce-Web-Platform",
-  ],
-  focusAreas: [
-    "API Integration",
-    "Performance Optimization",
-    "Debugging",
-    "Navigation",
-    "State Management",
-  ],
+  launchedProjects: ["Employee-Directory-App", "Company-Dashboard-App", "E-Commerce-Web-Platform"],
+  focusAreas: ["API Integration", "Performance Optimization", "Debugging", "Navigation", "State Management"],
   status: "Building performant, cross-platform mobile experiences 🚀",
-  openTo: [
-    "React Native Projects",
-    "Android Development",
-    "Full Stack Development",
-    "Collaboration & Freelance Work",
-  ],
+  openTo: ["React Native Projects", "Android Development", "Collaboration & Freelance Work"],
 };
 ---
 
