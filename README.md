@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=Adarsh%20Mohan%20Bhatt&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Developer%20%7C%20Android%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Native+Developer;Android+%7C+Kotlin+%7C+Java+Developer;Building+Cross-Platform+Mobile+Apps;SOAP+%2F+REST+API+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Native+Developer;Android+%7C+Kotlin+%7C+Java+Developer;Building+Cross-Platform+Mobile+Apps;SOAP+%2F+REST+API+Integration+Specialist;Full+Stack+Web+Developer+(HTML%2FCSS%2FJS%2FMySQL)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ const adarsh = {
     devOps: ["Git", "GitHub"],
     tools: ["Postman", "VS Code", "Android Studio", "Figma"],
   },
-  launchedProjects: ["Employee-Directory-App", "Company-Dashboard-App"],
+  launchedProjects: ["Employee-Directory-App", "Company-Dashboard-App", "E-Commerce-Web-Platform"],
   focusAreas: ["API Integration", "Performance Optimization", "Debugging", "Navigation", "State Management"],
   status: "Building performant, cross-platform mobile experiences 🚀",
   openTo: ["React Native Projects", "Android Development", "Collaboration & Freelance Work"],
@@ -82,6 +82,28 @@ A React Native dashboard application featuring analytics, user management, API i
 | Analytics         | Dashboard Analytics     |
 
 🔗 [Code](https://github.com/adarshbhatt69-sys/Company-Dashboard-App)
+
+---
+
+### 🛒 E-Commerce Web Platform
+
+Designed and deployed a fully responsive frontend integrated with a MySQL backend, managing 500+ product SKUs and secure user data — achieved 40% faster feature integration using a modular, reusable component architecture across frontend and backend layers.
+
+<div align="left">
+  <a href="https://github.com/adarshbhatt69-sys/E-Commerce-Web-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshbhatt69-sys&repo=E-Commerce-Web-Platform&theme=nord&border_color=38BDF8&title_color=38BDF8" />
+  </a>
+</div>
+
+| Layer            | Technology            |
+|-------------------|------------------------|
+| Frontend          | HTML5, CSS3, JavaScript |
+| Backend/Database  | MySQL                   |
+| Architecture      | Modular Reusable Components |
+| Scale             | 500+ Product SKUs        |
+| Security          | Secure User Data Handling |
+
+🔗 [Code](https://github.com/adarshbhatt69-sys/E-Commerce-Web-Platform)
 
 ---
 
